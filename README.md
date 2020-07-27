@@ -1,9 +1,4 @@
-Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Manchester Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
-
-### ⚡ Relevant achievements
-- Awarded 1st place on Code First Girl's Web Dev course
-- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
-- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
+Welcome to my GitHub! I'm Febry, Through self-study and enrolling, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
 
 ### ✔️ I'm currently learning
 - JavaScript
@@ -15,13 +10,7 @@ Although, I think I'll wait to learn React before I build the website.
 
 ### 💡 Goals for 2020
 - Complete #100DaysOfCode challenge
-- Build 30+ projects 
 - Become skilled in JavaScript
-- Complete coding bootcamp by October 2020
-
-### 🌴 Fun facts
-- I blog. About food. Recipes and stuff. 
-- I will speak German fluently in 5 months or so.
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>

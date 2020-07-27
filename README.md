@@ -5,8 +5,7 @@ Welcome to my GitHub! I'm Febry, Through self-study and enrolling, I am building
 - ReactJS
 
 ### 👩‍💻 I'm working on
-- Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
+- Building projects and my portfolio website.
 
 ### 💡 Goals for 2020
 - Complete #100DaysOfCode challenge

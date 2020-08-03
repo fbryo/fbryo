@@ -15,6 +15,10 @@ Building projects
 - LinkedIn: <a href = "https://www.linkedin.com/in/bryori99/">bryori99</a>
 - Twitter: <a href = "https://twitter.com/FRiandhito">FRiandhito</a>
 - Website: coming soon
+
+### 📚 Portfolio
+- http://fsc.my.id/
+- in github repositories
 <br>
 <br>
 From fbryo (https://github.com/fbryo)

@@ -18,6 +18,7 @@ Building projects
 
 ### 📚 Portfolio
 - http://fsc.my.id/
+- https://bit.ly/2PoPnH4 (CRUD React Native)
 - in github repositories
 <br>
 <br>

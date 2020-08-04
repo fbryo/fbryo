@@ -17,7 +17,7 @@ Building projects
 - Website: coming soon
 
 ### 📚 Portfolio
-- http://fsc.my.id/
+- http://fsc.my.id/ (Sondar Creative e-commerce's Website)
 - https://bit.ly/2PoPnH4 (CRUD React Native)
 - in github repositories
 <br>

@@ -2,7 +2,7 @@ Welcome to my GitHub! I'm Febry, Through self-study and enrolling, I am building
 Thanks
 
 ### ✔️ I'm currently learning
-- Vanilla JavaScript
+- JavaScript
 - JavaScript Front-End Frameworks (ReactJS & VueJS)
 
 ### 👩‍💻 I'm working on

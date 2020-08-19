@@ -20,7 +20,7 @@ Building projects
 ### :paperclip: Portfolio
 - IGS: http://igsolusi.com/ (fixing Website UI)
 - Octovi: http://octovi.com/ (make company profile website)
-- SIMJAB MENPAN-RB (add "analisa jabatan" form that adjusting with "KEPUTUSAN MENTERI
+- SIMJAB MENPAN-RB Website (add "analisa jabatan" form that adjusting with "KEPUTUSAN MENTERI
   PENDAYAGUNAAN APARATUR NEGARA")
 <br>
 <br>

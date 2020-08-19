@@ -3,7 +3,7 @@ Thanks
 
 ### ✔️ I'm currently learning
 - Vanilla JavaScript
-- JavaScript Framework (ReactJS & VueJS)
+- JavaScript Front-End Frameworks (ReactJS & VueJS)
 
 ### 👩‍💻 I'm working on
 Building projects

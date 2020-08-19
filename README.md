@@ -1,8 +1,9 @@
-Welcome to my GitHub! I'm Febry, Through self-study and enrolling, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/FRiandhito">FRiandhito</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a>.
+Welcome to my GitHub! I'm Febry, Through self-study and enrolling, I am building a solid foundation in both frontend and backend technologies and languages.
+Thanks
 
 ### ✔️ I'm currently learning
-- JavaScript
-- ReactJS
+- Vanilla JavaScript
+- JavaScript Framework (ReactJS & VueJS)
 
 ### 👩‍💻 I'm working on
 Building projects

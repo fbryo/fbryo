@@ -8,19 +8,13 @@ Welcome to my GitHub! I'm Febry, Through self-study and enrolling, I am building
 Building projects
 
 ### 💡 Goals for 2020
-- Complete #100DaysOfCode challenge
+- Get a suitable job
 - Become skilled in JavaScript
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/bryori99/">bryori99</a>
 - Twitter: <a href = "https://twitter.com/FRiandhito">FRiandhito</a>
 - Website: coming soon
-
-### 📚 Portfolio
-- http://fsc.my.id/ (Sondar Creative e-commerce's Website)
-- https://bit.ly/2PoPnH4 (CRUD React Native)
-- http://www.greysonprojects.com/ (IGS Website)
-- in github repositories
 <br>
 <br>
 From fbryo (https://github.com/fbryo)

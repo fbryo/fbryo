@@ -17,10 +17,7 @@ Building projects
 - <a href = "https://twitter.com/FRiandhito">Twitter</a>
 
 ### :paperclip: Portfolio
-- IGS: http://igsolusi.com/ (fixing Website UI)
-- Octovi: http://octovi.com/ (make company profile website)
+- <a href = "http://igsolusi.com/">Integra Global Solusi (IGS)</a>: fixing Website UI
+- <a href = "http://octovi.com/">Octovi</a>: make company profile website
 - SIMJAB MENPAN-RB Website (add "analisa jabatan" form that adjusting with "KEPUTUSAN MENTERI
   PENDAYAGUNAAN APARATUR NEGARA")
-<br>
-<br>
-From fbryo (https://github.com/fbryo)

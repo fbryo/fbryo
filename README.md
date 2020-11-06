@@ -13,7 +13,7 @@ Building projects
 - Become skilled in JavaScript
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/bryori99/">bryori99</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/fbryo21/">fbryo21</a>
 - Twitter: <a href = "https://twitter.com/FRiandhito">FRiandhito</a>
 - Website: coming soon
 

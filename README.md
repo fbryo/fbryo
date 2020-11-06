@@ -13,9 +13,8 @@ Building projects
 - Become skilled in JavaScript
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/fbryo21/">fbryo21</a>
-- Twitter: <a href = "https://twitter.com/FRiandhito">FRiandhito</a>
-- Website: coming soon
+- <a href = "https://www.linkedin.com/in/fbryo21/">LinkedIn</a>
+- <a href = "https://twitter.com/FRiandhito">Twitter</a>
 
 ### :paperclip: Portfolio
 - IGS: http://igsolusi.com/ (fixing Website UI)

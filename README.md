@@ -3,14 +3,10 @@ Thanks
 
 ### ✔️ I'm currently learning
 - JavaScript
-- JavaScript Front-End Frameworks (ReactJS & VueJS)
+- ReactJS
 
 ### 👩‍💻 I'm working on
 Building projects
-
-### 💡 Goals for 2020
-- Get a suitable job
-- Become skilled in JavaScript
 
 ### ☕ Get in touch
 - <a href = "https://www.linkedin.com/in/fbryo21/">LinkedIn</a>
